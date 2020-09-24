@@ -16,8 +16,12 @@
     "supertest": "^4.0.2"
   },
   "scripts": {
-    "test": "jest",
+    "test": "jest --watchAll --verbose",
     "start": "node server"
+  },
+
+  "engines": {
+    "node": "12.18"
   },
   "author": "",
   "license": "ISC"
