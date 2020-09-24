@@ -4,3 +4,10 @@ type: This can either be buy or sell, nothing else.
 margin: This is a percentage that will be used in a calculation. 
 exchangeRate: This is a custom USD/NGN exchange rate.
 
+Install Dependencies
+    npm install
+
+Run App
+    npm start    
+
+
